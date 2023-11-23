@@ -3,6 +3,9 @@
 
 ### Overview 
 This analysis aims to determine the most popular tracks and artists on Spotify in 2023 based on the number of streams gained and the number of tracks published. It also seeks to establish the variation in the total number of streams for different tracks based on the year, month, and day the tracks were released.  
+![overview1](https://github.com/Robert-Kirui/2023-spotify-songs/assets/151769501/e242070e-65fa-48e9-9c18-dc50d441138c)
+![overview2](https://github.com/Robert-Kirui/2023-spotify-songs/assets/151769501/262527c9-689f-470e-91b6-22608990122f)
+
 
 ### Data Source 
 The dataset for this analysis was obtained from Kaggle, and can be downloaded [here](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
