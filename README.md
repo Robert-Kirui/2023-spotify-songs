@@ -118,6 +118,11 @@ ORDER BY in_deezer_playlists DESC;
 - Despite having the most songs on Spotify, only artists Taylor Swift (3 platforms), The Weeknd (5 platforms), and Harry Styles (4 platforms) seem to perform better overall as their songs appear in top 15 in at least 3 platforms (Spotify, Apple Music, Deezer, and Shazam)
 - Some songs perform better on Apple Music or Deezer than on Spotify as it is evident that only a few songs that appear in top 10 highest number of Spotify playlists also appear in top 10 highest number of Apple Music and Deezer playlists. This means that some songs are streamed more on Spotify, others are streamed more on Apple Music, and others streamed more on Deezer.
 
+### Recommendations 
+
+
+### Limitations 
+
 
 
  
